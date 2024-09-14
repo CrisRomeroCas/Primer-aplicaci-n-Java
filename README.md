@@ -14,4 +14,4 @@ Este proyecto es una simulación básica de un sistema bancario desarrollado en 
 
 
  ```bash
-   git clone https://github.com/CrisRomeroCas/Primer-aplicaci-n-Java
+   git clone https://github.com/CrisRomeroCas/Primer-aplicacion-Java
